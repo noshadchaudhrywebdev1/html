@@ -11,3 +11,6 @@ remoteok.io
 
 Finding A Job
 https://www.honeypot.io/
+
+Dev-Career-Tips
+https://cult.honeypot.io/
